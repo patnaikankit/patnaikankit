@@ -7,15 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/amitsamui257" target="blank"><img src="https://img.shields.io/twitter/follow/amitsamui257?logo=twitter&style=for-the-badge" alt="amitsamui257" /></a> </p>
 
-- 🔭 checkout my portfolio [amitsamui.in](https://amitsamui.in)
-
-- 🌱 I’m currently learning **Blockchain and react native**
+- 🌱 I’m currently learning **Nextjs and Graphql**
 
 - 💬 Ask me about **Full stack MERN**
 
-- 📫 How to reach me **amitsamui257@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UWEtn5kFvIh7tZL7EkxeVPRLgT_urRu7/view?usp=sharing](https://drive.google.com/file/d/1UWEtn5kFvIh7tZL7EkxeVPRLgT_urRu7/view?usp=sharing)
+- 📫 How to reach me **ankit.patnaik2003@gmail.com**
 
 - ⚡ Fun fact **I'm an avid traveler, collecting unique souvenirs and unforgettable experiences along the way!**
 
